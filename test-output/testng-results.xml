@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7937" started-at="2018-06-27T12:10:51Z" finished-at="2018-06-27T12:10:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7937" started-at="2018-06-27T12:10:51Z" finished-at="2018-06-27T12:10:58Z">
+      <class name="qaittesting.Bing.BingTranslatorTestClass">
+        <test-method status="PASS" signature="test00()[pri:0, instance:qaittesting.Bing.BingTranslatorTestClass@646d64ab]" name="test00" is-config="true" duration-ms="7038" started-at="2018-06-27T12:10:51Z" finished-at="2018-06-27T12:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test00 -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:qaittesting.Bing.BingTranslatorTestClass@646d64ab]" name="test01" duration-ms="779" started-at="2018-06-27T12:10:58Z" finished-at="2018-06-27T12:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="test02()[pri:0, instance:qaittesting.Bing.BingTranslatorTestClass@646d64ab]" name="test02" duration-ms="99" started-at="2018-06-27T12:10:58Z" finished-at="2018-06-27T12:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+      </class> <!-- qaittesting.Bing.BingTranslatorTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
