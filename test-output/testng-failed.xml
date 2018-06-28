@@ -5,8 +5,8 @@
     <classes>
       <class name="qaittesting.Bing.BingTranslatorTestClass">
         <methods>
-          <include name="test01"/>
           <include name="test00"/>
+          <include name="test01_GivenLanguageIsSelectedInDropDown2"/>
         </methods>
       </class> <!-- qaittesting.Bing.BingTranslatorTestClass -->
     </classes>

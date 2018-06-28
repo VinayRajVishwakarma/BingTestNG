@@ -21,11 +21,15 @@ public class BingTranslatorTestClass {
 	}
 	
 	@Test
-	public void test01_GivenLanguageIsSelectedInDropDown(){
-		Assert.assertTrue(action.selectLanguage("English").contains("English"),"you failed horribly");
+	public void test01_GivenLanguageIsSelectedInDropDown2(){
+		Assert.assertTrue(action.selectLanguage("Korean").contains("Korean"),"you failed horribly");
 	}
 	@Test
 	public void test02_InputAreaHasTextInIt(){
 		Assert.assertFalse(action.enterText().equals(""));
 	}
-}
+	/*@Test
+	public void test03(){
+		action.xyz();*/
+	}
+
